@@ -1,2 +1,2 @@
-# wiki
-The temporary wiki of iGEM Patras.
+# webpage
+The webpage of iGEM Patras.
